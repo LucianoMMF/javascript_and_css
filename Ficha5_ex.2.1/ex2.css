@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Mohave:wght@300&display=swap');
+
+:root {
+    background-color: whitesmoke
+}
+
+* {
+    box-sizing: border-box;
+    margin: 5;
+    padding: 1;
+    font-size: 100%;
+    font-family: 'Mohave', cursive;
+}
+
+#box{
+    width: 100px;
+    height: 100px;
+    background-color: green
+}

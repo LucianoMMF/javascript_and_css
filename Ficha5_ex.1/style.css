@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Mohave:wght@300&display=swap');
+
+:root {
+    background-color: whitesmoke
+}
+
+* {
+    box-sizing: border-box;
+    margin: 5;
+    padding: 1;
+    font-size: 100%;
+    font-family: 'Mohave', cursive;
+}
+
+#bloco1{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: green
+}
+
+#bloco2{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: red
+}
+
+#bloco3{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: blue
+}

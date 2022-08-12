@@ -1,0 +1,10 @@
+#square {
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    border: 2px solid blueviolet;
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: medium;
+}
